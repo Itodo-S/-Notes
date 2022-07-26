@@ -1,0 +1,95 @@
+.section {
+  color: black;
+  width: 100%;
+  height: 85vh;
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  align-items: center;
+}
+.section div {
+  width: 80%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  height: 90%;
+}
+.section .description {
+  font-size: 2rem;
+  font-weight: 600;
+}
+.section .desc {
+  font-weight: 600;
+  color: green;
+  font-size: 1.2rem;
+}
+.section .down-arrow {
+  stroke: black;
+  position: absolute;
+  bottom: 15em;
+  width: 1em;
+  left: 20px;
+  animation: moveArrow 1s alternate-reverse infinite;
+}
+.section .down-arrow path {
+  fill: white;
+}
+
+@media only screen and (min-width: 920px) {
+  .section {
+    height: 39rem;
+    width: 50%;
+  }
+  .section .description {
+    width: 75%;
+    font-size: 2.8rem;
+    text-align: left;
+  }
+  .section .desc {
+    font-size: 1.3rem;
+    width: 75%;
+    text-align: left;
+  }
+  .section div {
+    width: 100%;
+  }
+  .section .down-arrow {
+    bottom: 1em;
+    left: 7px;
+  }
+}
+@-webkit-keyframes moveArrow {
+  from {
+    transform: translateY(-30px);
+  }
+  to {
+    transform: translateY(0);
+  }
+}
+@keyframes moveArrow {
+  from {
+    transform: translateY(-30px);
+  }
+  to {
+    transform: translateY(0);
+  }
+}
+@-webkit-keyframes moveDown {
+  from {
+    transform: translateY(-100px);
+  }
+  to {
+    transform: translateY(0);
+    opacity: 1;
+  }
+}
+@keyframes moveDown {
+  from {
+    transform: translateY(-100px);
+  }
+  to {
+    transform: translateY(0);
+    opacity: 1;
+  }
+}/*# sourceMappingURL=styles.css.map */

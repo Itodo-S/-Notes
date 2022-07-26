@@ -1,0 +1,45 @@
+{
+  "notes": [
+    {
+      "id": 1,
+      "category": "Food",
+      "details": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Ipsa, dolore consequatur maxime necessitatibus assumenda quisquam placeat delectus. Facere sapiente quia eum iure consequatur necessitatibus laboriosam aut officia. Esse, voluptatibus maiores!"
+    },
+    {
+      "id": 2,
+      "category": "Pets",
+      "details": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Ipsa, dolore consequatur maxime necessitatibus assumenda quisquam placeat delectus. Facere sapiente quia eum iure consequatur necessitatibus laboriosam aut officia. Esse, voluptatibus maiores!"
+    },
+    {
+      "id": 3,
+      "category": "Food",
+      "details": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Ipsa, dolore consequatur maxime necessitatibus assumenda quisquam placeat delectus. Facere sapiente quia eum iure consequatur necessitatibus laboriosam aut officia. Esse, voluptatibus maiores!"
+    },
+    {
+      "id": 4,
+      "category": "Pets",
+      "details": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Ipsa, dolore consequatur maxime necessitatibus assumenda quisquam placeat delectus. Facere sapiente quia eum iure consequatur necessitatibus laboriosam aut officia. Esse, voluptatibus maiores!"
+    },
+    {
+      "id": 5,
+      "category": "Books",
+      "details": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Ipsa, dolore consequatur maxime necessitatibus assumenda quisquam placeat delectus. Facere sapiente quia eum iure consequatur necessitatibus laboriosam aut officia. Esse, voluptatibus maiores!"
+    },
+    {
+      "id": 6,
+      "category": "Word",
+      "details": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Ipsa, dolore consequatur maxime necessitatibus assumenda quisquam placeat delectus. Facere sapiente quia eum iure consequatur necessitatibus laboriosam aut officia. Esse, voluptatibus maiores!"
+    },
+
+    {
+      "id": 7,
+      "category": "Books",
+      "details": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Ipsa, dolore consequatur maxime necessitatibus assumenda quisquam placeat delectus. Facere sapiente quia eum iure consequatur necessitatibus laboriosam aut officia. Esse, voluptatibus maiores!"
+    },
+    {
+      "id": 8,
+      "category": "Word",
+      "details": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Ipsa, dolore consequatur maxime necessitatibus assumenda quisquam placeat delectus. Facere sapiente quia eum iure consequatur necessitatibus laboriosam aut officia. Esse, voluptatibus maiores!"
+    }
+  ]
+}

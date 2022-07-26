@@ -1,0 +1,21 @@
+header {
+  position: -webkit-sticky;
+  position: sticky;
+  top: 0;
+  padding: 2px;
+}
+header .logo {
+  color: black;
+  margin-left: 20px;
+  font-size: 2rem;
+  font-weight: 600;
+}
+
+@media only screen and (min-width: 920px) {
+  .logo {
+    color: black;
+  }
+  .logo span {
+    color: green;
+  }
+}/*# sourceMappingURL=style.css.map */

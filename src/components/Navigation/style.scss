@@ -1,0 +1,22 @@
+header {
+  // background-color: black;
+  position: sticky;
+  top: 0;
+  padding: 2px;
+  .logo {
+    color: black;
+    margin-left: 20px;
+    font-size: 2rem;
+    font-weight: 600;
+  }
+}
+
+@media only screen and (min-width: 920px) {
+  .logo {
+    color: black;
+
+    span {
+      color: green;
+    }
+  }
+}
